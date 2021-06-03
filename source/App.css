@@ -1,0 +1,82 @@
+.head {
+  text-align: center;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.empty {
+  width: 20px;
+  height: 30px;
+}
+
+.bigButton {
+  height: 50px;
+  width: 100%;
+  margin-top: 20px;
+  justify-content: center;
+  background-color: #179c17;
+  color: white;
+}
+
+.photoPreview img {
+  height: 100px;
+  width: 100px;
+}
+
+.m-30 {
+  margin: 30px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mb-30{
+  margin-bottom: 30px;
+}
+
+.recipeCard {
+  width: 300px;
+  padding: 10px;
+  margin: 10px;
+  cursor: pointer;
+  background-color: #e0e0e0;
+}
+
+.review {
+  margin: 10px;
+  background-color: #e9ffe9;
+}
+
+.fav {
+  font-size: 40px;
+  cursor: pointer;
+
+}
+
+.uploadingForm {
+  padding: 15px;
+  width: 300px;
+  margin: 40px;
+}
+
+.uploadingForm textarea{
+  width: 100%;
+  background-color: grey;
+}
+.uploadingForm input {
+  height: 40px;
+  width: 100%;
+  margin: 10px 0 0 0;
+  text-align: center;
+  background-color: darkgrey;
+;
+}
+
+.uploadingForm button {
+  width: 100%;
+  height: 25px;
+  border: none;
+  background-color: darkblue;
+  color: cornflowerblue
+}
